@@ -2,4 +2,5 @@
 Git is free software.
 @戴尔电脑
 
-戴尔电脑按正常进化继续编辑readme
+别吵啦，再吵谁都不用
+
